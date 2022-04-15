@@ -18,7 +18,8 @@
     "typescript",
     "jest",
     "template",
-    "boilerplate"
+    "boilerplate",
+    "detox"
   ],
   "author": "Emin Khateeb <emin@emin.ch>",
   "license": "MIT",
